@@ -79,3 +79,9 @@ li {
 .botao-excluir:hover {
   transform: scale(1.2);
 }
+
+.filtro {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
